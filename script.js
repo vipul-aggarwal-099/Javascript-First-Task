@@ -3,8 +3,7 @@ let myName = "Vipul Aggarwal";
 let myCourses = ["HTML", "CSS", "JavaScript", "Node JS"];
 
 /* Print  myName and myCourses using the variables */
-console.log(myName);
-console.log(myCourses);
+console.log("My name is " + myName + "," + " and my courses are: " + myCourses);
 
 /* Write the function using for loop and used an if statement to find the values in even */
 function evenNumbers() {
